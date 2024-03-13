@@ -9,7 +9,7 @@ First off, thank you for considering contributing to our project! It's people li
 This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
 **Before Submitting A Bug Report:**
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/your_username/your_project_name/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/amp940/Metric-Imperial-Converter-Chrome-Extension-/issues).
 - If you're unable to find an open issue addressing the problem, open a new one.
 
 **How Do I Submit A (Good) Bug Report?**
