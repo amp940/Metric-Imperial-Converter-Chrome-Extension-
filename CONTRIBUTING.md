@@ -2,10 +2,6 @@
 
 First off, thank you for considering contributing to our project! It's people like you that make it a great community and a valuable tool for everyone. Below are some guidelines that we request you follow to maintain the highest standards of code integrity and community cooperation.
 
-## Code of Conduct
-
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [project_email@example.com].
-
 ## How Can I Contribute?
 
 ### Reporting Bugs
@@ -39,43 +35,3 @@ Enhancement suggestions are tracked as GitHub issues:
 - **Provide a step-by-step description of the suggested enhancement** in as much detail as possible.
 - **Provide specific examples to demonstrate the steps** or include mock-ups and sketches if possible.
 - **Explain why this enhancement would be useful** to most users and isn't something that can or should be implemented as a community plugin.
-
-### Pull Requests
-
-- **Fill in [the required template](PULL_REQUEST_TEMPLATE.md)**
-- **Do not include issue numbers in the PR title**
-- **Follow the styleguides**
-- **After you submit your pull request, verify that all status checks are passing**
-
-## Style Guides
-
-### Git Commit Messages
-
-- Use the present tense ("Add feature" not "Added feature")
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-- Limit the first line to 72 characters or less
-- Reference issues and pull requests liberally after the first line
-
-### JavaScript Styleguide
-
-- All JavaScript must adhere to [JavaScript Standard Style](https://standardjs.com/).
-
-### Documentation Styleguide
-
-- Use [Markdown](https://guides.github.com/features/mastering-markdown/).
-- Reference JavaScript code using triple backticks and specifying the language.
-
-## Additional Notes
-
-### Issue and Pull Request Labels
-
-This section lists the labels we use to help us manage the workflow of issues and pull requests:
-
-- `bug`: Indicates an issue with the project
-- `documentation`: Indicates a need for improvements or additions to documentation
-- `enhancement`: Indicates new feature requests
-- `good first issue`: Indicates a good issue for first-time contributors
-
----
-
-Remember, contributions to this repository can be made in many forms. Contributions are not only welcomed but encouraged! Thank you for helping improve the Metric to Imperial Converter Chrome Extension.
